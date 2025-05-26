@@ -4,4 +4,8 @@ export default defineNuxtConfig({
   devtools: { enabled: true },
   modules: ["@nuxt/image", "@nuxt/fonts"],
   css: ["~/assets/main.css"],
+  ssr: true,
+  app: {
+    baseURL: "/resume/",
+  },
 });
