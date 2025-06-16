@@ -8,7 +8,7 @@
       <ul class="project-list">
         <li>
           <a
-            href="https://hotbox.igor.kalinichev.net/"
+            href="https://hotbox2.igor.kalinichev.net/"
             target="_blank"
             class="project-link"
           >
